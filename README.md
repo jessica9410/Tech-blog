@@ -2,7 +2,7 @@
 
 ## Your Task
 
-Using the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication, I will be able to build a CMS-style blog site similar to Wordpress site. 
+Using the MVC paradigm in its architectural structure, using Handlebars.js as the templating language I will be able to build a CMS-style blog site similar to Wordpress site. 
 
 ## User Story
 
@@ -54,8 +54,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 The following animation demonstrates the application functionality:
 
-![Animation cycles through signing into the app, clicking on buttons, and updating blog posts.](./Assets/14-mvc-homework-demo-01.gif) 
 
 
 ---
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+© 2021 
