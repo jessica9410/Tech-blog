@@ -1,20 +1,17 @@
-# Tech-Blog
------
+# Tech-blog
+-------
+![badge](https://img.shields.io/badge/license-MIT-ff69b4)
 
-## Your Task
------
 
-Using the MVC paradigm in its architectural structure, using Handlebars.js as the templating language I will be able to build a CMS-style blog site similar to Wordpress site. 
+## Table of Contents
+---------
+- [Description](#description)
+- [Technologies Used](#technologies-used)
+- [Usage](#usage)
+- [License](#license)
+- [Questions](#questions)
 
-## User Story'-
-
-```md
-AS A developer who writes about tech
-I WANT a CMS-style blog site
-SO THAT I can publish articles, blog posts, and my thoughts and opinions
-```
-
-## Acceptance Criteria
+## Description
 
 ```md
 GIVEN a CMS-style blog site
@@ -52,11 +49,27 @@ WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 ```
 
-## Mock-Up
+## Technologies Used
+------
+``handlebars``
+``Javascript``
+``Node.js``
+``Express``
+``Sequelize``
+``Dotenv``
 
-The following animation demonstrates the application functionality:
+## Screenshot
+-----
 
+Direct link to site:
 
+### License
+-------
+![badge](https://img.shields.io/badge/license-MIT-ff69b4)
 
----
-© 2021 
+This application is covered by the MIT license. 
+## Questions
+-----
+Please email me for further questions at Jessicaga941@gmail.com
+
+Copyright(c) 2021 Jessica Galarza
