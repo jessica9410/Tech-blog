@@ -1,10 +1,12 @@
 # Tech-Blog
+-----
 
 ## Your Task
+-----
 
 Using the MVC paradigm in its architectural structure, using Handlebars.js as the templating language I will be able to build a CMS-style blog site similar to Wordpress site. 
 
-## User Story
+## User Story'-
 
 ```md
 AS A developer who writes about tech
