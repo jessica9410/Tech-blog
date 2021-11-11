@@ -60,8 +60,9 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 ## Screenshot
 -----
+![Screenshot 2021-11-11 170245](https://user-images.githubusercontent.com/87554644/141375421-90d589b3-0b44-4634-b24e-1d16318f861d.jpg)
 
-Direct link to site:
+Direct link to site:https://jessicaga9410.github.io/Tech-blog/
 
 ### License
 -------
